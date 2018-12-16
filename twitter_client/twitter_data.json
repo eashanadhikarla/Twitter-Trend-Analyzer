@@ -1,0 +1,2179 @@
+{
+	"search_metadata" : 
+	{
+		"completed_in" : 0.043999999999999997,
+		"count" : 10,
+		"max_id" : 1073602356028166146,
+		"max_id_str" : "1073602356028166146",
+		"next_results" : "?max_id=1073602353448636415&q=christmas&count=10&include_entities=1",
+		"query" : "christmas",
+		"refresh_url" : "?since_id=1073602356028166146&q=christmas&include_entities=1",
+		"since_id" : 0,
+		"since_id_str" : "0"
+	},
+	"statuses" : 
+	[
+		{
+			"contributors" : null,
+			"coordinates" : null,
+			"created_at" : "Fri Dec 14 15:35:22 +0000 2018",
+			"entities" : 
+			{
+				"hashtags" : [],
+				"symbols" : [],
+				"urls" : 
+				[
+					{
+						"display_url" : "twitter.com/i/web/status/1…",
+						"expanded_url" : "https://twitter.com/i/web/status/1073602356028166146",
+						"indices" : 
+						[
+							117,
+							140
+						],
+						"url" : "https://t.co/j0Kt4ukPlk"
+					}
+				],
+				"user_mentions" : []
+			},
+			"favorite_count" : 0,
+			"favorited" : false,
+			"geo" : null,
+			"id" : 1073602356028166146,
+			"id_str" : "1073602356028166146",
+			"in_reply_to_screen_name" : null,
+			"in_reply_to_status_id" : null,
+			"in_reply_to_status_id_str" : null,
+			"in_reply_to_user_id" : null,
+			"in_reply_to_user_id_str" : null,
+			"is_quote_status" : false,
+			"lang" : "en",
+			"metadata" : 
+			{
+				"iso_language_code" : "en",
+				"result_type" : "recent"
+			},
+			"place" : null,
+			"possibly_sensitive" : false,
+			"retweet_count" : 0,
+			"retweeted" : false,
+			"source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"text" : "Mrs. Wiersma’s grade 1/2 class has been talking about Christmas traditions from around the world 🤗 Great work on yo… https://t.co/j0Kt4ukPlk",
+			"truncated" : true,
+			"user" : 
+			{
+				"contributors_enabled" : false,
+				"created_at" : "Sun Jun 29 17:03:56 +0000 2014",
+				"default_profile" : true,
+				"default_profile_image" : false,
+				"description" : "Home of the Dragons!",
+				"entities" : 
+				{
+					"description" : 
+					{
+						"urls" : []
+					},
+					"url" : 
+					{
+						"urls" : 
+						[
+							{
+								"display_url" : "ang.scdsb.on.ca",
+								"expanded_url" : "http://ang.scdsb.on.ca",
+								"indices" : 
+								[
+									0,
+									23
+								],
+								"url" : "https://t.co/QgTuoVDsMv"
+							}
+						]
+					}
+				},
+				"favourites_count" : 1084,
+				"follow_request_sent" : false,
+				"followers_count" : 493,
+				"following" : false,
+				"friends_count" : 39,
+				"geo_enabled" : false,
+				"has_extended_profile" : false,
+				"id" : 2595041280,
+				"id_str" : "2595041280",
+				"is_translation_enabled" : false,
+				"is_translator" : false,
+				"lang" : "en",
+				"listed_count" : 13,
+				"location" : "Angus, ON",
+				"name" : "Angus Morrison ES",
+				"notifications" : false,
+				"profile_background_color" : "C0DEED",
+				"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile" : false,
+				"profile_banner_url" : "https://pbs.twimg.com/profile_banners/2595041280/1510604359",
+				"profile_image_url" : "http://pbs.twimg.com/profile_images/930167641779576832/SKnlgdyo_normal.jpg",
+				"profile_image_url_https" : "https://pbs.twimg.com/profile_images/930167641779576832/SKnlgdyo_normal.jpg",
+				"profile_link_color" : "1DA1F2",
+				"profile_sidebar_border_color" : "C0DEED",
+				"profile_sidebar_fill_color" : "DDEEF6",
+				"profile_text_color" : "333333",
+				"profile_use_background_image" : true,
+				"protected" : false,
+				"screen_name" : "AngusMorrisonES",
+				"statuses_count" : 2871,
+				"time_zone" : null,
+				"translator_type" : "none",
+				"url" : "https://t.co/QgTuoVDsMv",
+				"utc_offset" : null,
+				"verified" : false
+			}
+		},
+		{
+			"contributors" : null,
+			"coordinates" : null,
+			"created_at" : "Fri Dec 14 15:35:22 +0000 2018",
+			"entities" : 
+			{
+				"hashtags" : [],
+				"media" : 
+				[
+					{
+						"display_url" : "pic.twitter.com/raw24lgjkB",
+						"expanded_url" : "https://twitter.com/holy_schnitt/status/1073589458509946881/photo/1",
+						"id" : 1073589454231678976,
+						"id_str" : "1073589454231678976",
+						"indices" : 
+						[
+							56,
+							79
+						],
+						"media_url" : "http://pbs.twimg.com/media/DuYn66YVsAA3NAr.jpg",
+						"media_url_https" : "https://pbs.twimg.com/media/DuYn66YVsAA3NAr.jpg",
+						"sizes" : 
+						{
+							"large" : 
+							{
+								"h" : 421,
+								"resize" : "fit",
+								"w" : 748
+							},
+							"medium" : 
+							{
+								"h" : 421,
+								"resize" : "fit",
+								"w" : 748
+							},
+							"small" : 
+							{
+								"h" : 383,
+								"resize" : "fit",
+								"w" : 680
+							},
+							"thumb" : 
+							{
+								"h" : 150,
+								"resize" : "crop",
+								"w" : 150
+							}
+						},
+						"source_status_id" : 1073589458509946881,
+						"source_status_id_str" : "1073589458509946881",
+						"source_user_id" : 491908046,
+						"source_user_id_str" : "491908046",
+						"type" : "photo",
+						"url" : "https://t.co/raw24lgjkB"
+					}
+				],
+				"symbols" : [],
+				"urls" : [],
+				"user_mentions" : 
+				[
+					{
+						"id" : 491908046,
+						"id_str" : "491908046",
+						"indices" : 
+						[
+							3,
+							16
+						],
+						"name" : "ellie",
+						"screen_name" : "holy_schnitt"
+					}
+				]
+			},
+			"extended_entities" : 
+			{
+				"media" : 
+				[
+					{
+						"display_url" : "pic.twitter.com/raw24lgjkB",
+						"expanded_url" : "https://twitter.com/holy_schnitt/status/1073589458509946881/photo/1",
+						"id" : 1073589454231678976,
+						"id_str" : "1073589454231678976",
+						"indices" : 
+						[
+							56,
+							79
+						],
+						"media_url" : "http://pbs.twimg.com/media/DuYn66YVsAA3NAr.jpg",
+						"media_url_https" : "https://pbs.twimg.com/media/DuYn66YVsAA3NAr.jpg",
+						"sizes" : 
+						{
+							"large" : 
+							{
+								"h" : 421,
+								"resize" : "fit",
+								"w" : 748
+							},
+							"medium" : 
+							{
+								"h" : 421,
+								"resize" : "fit",
+								"w" : 748
+							},
+							"small" : 
+							{
+								"h" : 383,
+								"resize" : "fit",
+								"w" : 680
+							},
+							"thumb" : 
+							{
+								"h" : 150,
+								"resize" : "crop",
+								"w" : 150
+							}
+						},
+						"source_status_id" : 1073589458509946881,
+						"source_status_id_str" : "1073589458509946881",
+						"source_user_id" : 491908046,
+						"source_user_id_str" : "491908046",
+						"type" : "photo",
+						"url" : "https://t.co/raw24lgjkB"
+					}
+				]
+			},
+			"favorite_count" : 0,
+			"favorited" : false,
+			"geo" : null,
+			"id" : 1073602356007309312,
+			"id_str" : "1073602356007309312",
+			"in_reply_to_screen_name" : null,
+			"in_reply_to_status_id" : null,
+			"in_reply_to_status_id_str" : null,
+			"in_reply_to_user_id" : null,
+			"in_reply_to_user_id_str" : null,
+			"is_quote_status" : false,
+			"lang" : "en",
+			"metadata" : 
+			{
+				"iso_language_code" : "en",
+				"result_type" : "recent"
+			},
+			"place" : null,
+			"possibly_sensitive" : false,
+			"retweet_count" : 38,
+			"retweeted" : false,
+			"retweeted_status" : 
+			{
+				"contributors" : null,
+				"coordinates" : null,
+				"created_at" : "Fri Dec 14 14:44:07 +0000 2018",
+				"entities" : 
+				{
+					"hashtags" : [],
+					"media" : 
+					[
+						{
+							"display_url" : "pic.twitter.com/raw24lgjkB",
+							"expanded_url" : "https://twitter.com/holy_schnitt/status/1073589458509946881/photo/1",
+							"id" : 1073589454231678976,
+							"id_str" : "1073589454231678976",
+							"indices" : 
+							[
+								38,
+								61
+							],
+							"media_url" : "http://pbs.twimg.com/media/DuYn66YVsAA3NAr.jpg",
+							"media_url_https" : "https://pbs.twimg.com/media/DuYn66YVsAA3NAr.jpg",
+							"sizes" : 
+							{
+								"large" : 
+								{
+									"h" : 421,
+									"resize" : "fit",
+									"w" : 748
+								},
+								"medium" : 
+								{
+									"h" : 421,
+									"resize" : "fit",
+									"w" : 748
+								},
+								"small" : 
+								{
+									"h" : 383,
+									"resize" : "fit",
+									"w" : 680
+								},
+								"thumb" : 
+								{
+									"h" : 150,
+									"resize" : "crop",
+									"w" : 150
+								}
+							},
+							"type" : "photo",
+							"url" : "https://t.co/raw24lgjkB"
+						}
+					],
+					"symbols" : [],
+					"urls" : [],
+					"user_mentions" : []
+				},
+				"extended_entities" : 
+				{
+					"media" : 
+					[
+						{
+							"display_url" : "pic.twitter.com/raw24lgjkB",
+							"expanded_url" : "https://twitter.com/holy_schnitt/status/1073589458509946881/photo/1",
+							"id" : 1073589454231678976,
+							"id_str" : "1073589454231678976",
+							"indices" : 
+							[
+								38,
+								61
+							],
+							"media_url" : "http://pbs.twimg.com/media/DuYn66YVsAA3NAr.jpg",
+							"media_url_https" : "https://pbs.twimg.com/media/DuYn66YVsAA3NAr.jpg",
+							"sizes" : 
+							{
+								"large" : 
+								{
+									"h" : 421,
+									"resize" : "fit",
+									"w" : 748
+								},
+								"medium" : 
+								{
+									"h" : 421,
+									"resize" : "fit",
+									"w" : 748
+								},
+								"small" : 
+								{
+									"h" : 383,
+									"resize" : "fit",
+									"w" : 680
+								},
+								"thumb" : 
+								{
+									"h" : 150,
+									"resize" : "crop",
+									"w" : 150
+								}
+							},
+							"type" : "photo",
+							"url" : "https://t.co/raw24lgjkB"
+						}
+					]
+				},
+				"favorite_count" : 1678,
+				"favorited" : false,
+				"geo" : null,
+				"id" : 1073589458509946881,
+				"id_str" : "1073589458509946881",
+				"in_reply_to_screen_name" : null,
+				"in_reply_to_status_id" : null,
+				"in_reply_to_status_id_str" : null,
+				"in_reply_to_user_id" : null,
+				"in_reply_to_user_id_str" : null,
+				"is_quote_status" : false,
+				"lang" : "en",
+				"metadata" : 
+				{
+					"iso_language_code" : "en",
+					"result_type" : "recent"
+				},
+				"place" : null,
+				"possibly_sensitive" : false,
+				"retweet_count" : 38,
+				"retweeted" : false,
+				"source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"text" : "“how was the office christmas party?” https://t.co/raw24lgjkB",
+				"truncated" : false,
+				"user" : 
+				{
+					"contributors_enabled" : false,
+					"created_at" : "Tue Feb 14 04:32:56 +0000 2012",
+					"default_profile" : false,
+					"default_profile_image" : false,
+					"description" : "Barstool Sports • crying but thriving • personal insta: ellie_schnitt insta show: schnitt_talk snapchat: ellie.schnitt podcast: @schnitt_talk",
+					"entities" : 
+					{
+						"description" : 
+						{
+							"urls" : []
+						},
+						"url" : 
+						{
+							"urls" : 
+							[
+								{
+									"display_url" : "instagram.com/schnitt_talk/",
+									"expanded_url" : "https://www.instagram.com/schnitt_talk/",
+									"indices" : 
+									[
+										0,
+										23
+									],
+									"url" : "https://t.co/8mDhinXsIS"
+								}
+							]
+						}
+					},
+					"favourites_count" : 22115,
+					"follow_request_sent" : false,
+					"followers_count" : 298373,
+					"following" : false,
+					"friends_count" : 589,
+					"geo_enabled" : true,
+					"has_extended_profile" : true,
+					"id" : 491908046,
+					"id_str" : "491908046",
+					"is_translation_enabled" : false,
+					"is_translator" : false,
+					"lang" : "en",
+					"listed_count" : 626,
+					"location" : "",
+					"name" : "ellie",
+					"notifications" : false,
+					"profile_background_color" : "6280A9",
+					"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile" : false,
+					"profile_banner_url" : "https://pbs.twimg.com/profile_banners/491908046/1535407482",
+					"profile_image_url" : "http://pbs.twimg.com/profile_images/1023097708003897345/UrnHczGy_normal.jpg",
+					"profile_image_url_https" : "https://pbs.twimg.com/profile_images/1023097708003897345/UrnHczGy_normal.jpg",
+					"profile_link_color" : "10096C",
+					"profile_sidebar_border_color" : "FFFFFF",
+					"profile_sidebar_fill_color" : "020812",
+					"profile_text_color" : "020812",
+					"profile_use_background_image" : true,
+					"protected" : false,
+					"screen_name" : "holy_schnitt",
+					"statuses_count" : 7710,
+					"time_zone" : null,
+					"translator_type" : "none",
+					"url" : "https://t.co/8mDhinXsIS",
+					"utc_offset" : null,
+					"verified" : false
+				}
+			},
+			"source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"text" : "RT @holy_schnitt: “how was the office christmas party?” https://t.co/raw24lgjkB",
+			"truncated" : false,
+			"user" : 
+			{
+				"contributors_enabled" : false,
+				"created_at" : "Tue Sep 04 01:19:45 +0000 2012",
+				"default_profile" : false,
+				"default_profile_image" : false,
+				"description" : "",
+				"entities" : 
+				{
+					"description" : 
+					{
+						"urls" : []
+					}
+				},
+				"favourites_count" : 22901,
+				"follow_request_sent" : false,
+				"followers_count" : 393,
+				"following" : false,
+				"friends_count" : 104,
+				"geo_enabled" : true,
+				"has_extended_profile" : false,
+				"id" : 801564018,
+				"id_str" : "801564018",
+				"is_translation_enabled" : false,
+				"is_translator" : false,
+				"lang" : "en",
+				"listed_count" : 5,
+				"location" : "",
+				"name" : "Rach",
+				"notifications" : false,
+				"profile_background_color" : "FFFFFF",
+				"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile" : true,
+				"profile_banner_url" : "https://pbs.twimg.com/profile_banners/801564018/1543195162",
+				"profile_image_url" : "http://pbs.twimg.com/profile_images/1069681325949575169/0rMfppz9_normal.jpg",
+				"profile_image_url_https" : "https://pbs.twimg.com/profile_images/1069681325949575169/0rMfppz9_normal.jpg",
+				"profile_link_color" : "000000",
+				"profile_sidebar_border_color" : "FFFFFF",
+				"profile_sidebar_fill_color" : "FFFFFF",
+				"profile_text_color" : "000000",
+				"profile_use_background_image" : true,
+				"protected" : false,
+				"screen_name" : "bruggerrachel",
+				"statuses_count" : 40111,
+				"time_zone" : null,
+				"translator_type" : "none",
+				"url" : null,
+				"utc_offset" : null,
+				"verified" : false
+			}
+		},
+		{
+			"contributors" : null,
+			"coordinates" : null,
+			"created_at" : "Fri Dec 14 15:35:22 +0000 2018",
+			"entities" : 
+			{
+				"hashtags" : [],
+				"symbols" : [],
+				"urls" : [],
+				"user_mentions" : 
+				[
+					{
+						"id" : 58007320,
+						"id_str" : "58007320",
+						"indices" : 
+						[
+							3,
+							14
+						],
+						"name" : "Maverick",
+						"screen_name" : "RodStryker"
+					}
+				]
+			},
+			"favorite_count" : 0,
+			"favorited" : false,
+			"geo" : null,
+			"id" : 1073602355923439616,
+			"id_str" : "1073602355923439616",
+			"in_reply_to_screen_name" : null,
+			"in_reply_to_status_id" : null,
+			"in_reply_to_status_id_str" : null,
+			"in_reply_to_user_id" : null,
+			"in_reply_to_user_id_str" : null,
+			"is_quote_status" : false,
+			"lang" : "en",
+			"metadata" : 
+			{
+				"iso_language_code" : "en",
+				"result_type" : "recent"
+			},
+			"place" : null,
+			"retweet_count" : 4,
+			"retweeted" : false,
+			"retweeted_status" : 
+			{
+				"contributors" : null,
+				"coordinates" : null,
+				"created_at" : "Fri Dec 14 15:16:06 +0000 2018",
+				"entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "twitter.com/i/web/status/1…",
+							"expanded_url" : "https://twitter.com/i/web/status/1073597504229388289",
+							"indices" : 
+							[
+								120,
+								143
+							],
+							"url" : "https://t.co/uy5H9OKuxX"
+						}
+					],
+					"user_mentions" : []
+				},
+				"favorite_count" : 13,
+				"favorited" : false,
+				"geo" : null,
+				"id" : 1073597504229388289,
+				"id_str" : "1073597504229388289",
+				"in_reply_to_screen_name" : "RodStryker",
+				"in_reply_to_status_id" : 1073595776327184384,
+				"in_reply_to_status_id_str" : "1073595776327184384",
+				"in_reply_to_user_id" : 58007320,
+				"in_reply_to_user_id_str" : "58007320",
+				"is_quote_status" : false,
+				"lang" : "en",
+				"metadata" : 
+				{
+					"iso_language_code" : "en",
+					"result_type" : "recent"
+				},
+				"place" : null,
+				"retweet_count" : 4,
+				"retweeted" : false,
+				"source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"text" : "8) \"It's Beginning To Look A Lot Like Christmas\"\n - Forced gender-specific gifts: dolls for Janice &amp; Jen and boots… https://t.co/uy5H9OKuxX",
+				"truncated" : true,
+				"user" : 
+				{
+					"contributors_enabled" : false,
+					"created_at" : "Sat Jul 18 19:15:29 +0000 2009",
+					"default_profile" : false,
+					"default_profile_image" : false,
+					"description" : "✊STRENGTH AND HONOR🥁🔥#Conservative #MAGA\n#BuildTheWall #DrainTheSwamp #1A #2A #AmericaFirst👌https://t.co/pDPgUg74Qu\n#Deplorable",
+					"entities" : 
+					{
+						"description" : 
+						{
+							"urls" : 
+							[
+								{
+									"display_url" : "GAB.ai/RodStryker",
+									"expanded_url" : "http://GAB.ai/RodStryker",
+									"indices" : 
+									[
+										92,
+										115
+									],
+									"url" : "https://t.co/pDPgUg74Qu"
+								}
+							]
+						},
+						"url" : 
+						{
+							"urls" : 
+							[
+								{
+									"display_url" : "twitter.com/RodStryker/sta…",
+									"expanded_url" : "https://twitter.com/RodStryker/status/985298305587597312",
+									"indices" : 
+									[
+										0,
+										23
+									],
+									"url" : "https://t.co/07vwPqcUMA"
+								}
+							]
+						}
+					},
+					"favourites_count" : 290436,
+					"follow_request_sent" : false,
+					"followers_count" : 77454,
+					"following" : false,
+					"friends_count" : 37534,
+					"geo_enabled" : false,
+					"has_extended_profile" : false,
+					"id" : 58007320,
+					"id_str" : "58007320",
+					"is_translation_enabled" : false,
+					"is_translator" : false,
+					"lang" : "en",
+					"listed_count" : 309,
+					"location" : "Indiana",
+					"name" : "Maverick",
+					"notifications" : false,
+					"profile_background_color" : "000000",
+					"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile" : false,
+					"profile_banner_url" : "https://pbs.twimg.com/profile_banners/58007320/1514129871",
+					"profile_image_url" : "http://pbs.twimg.com/profile_images/842393910974504960/G29bLUAK_normal.jpg",
+					"profile_image_url_https" : "https://pbs.twimg.com/profile_images/842393910974504960/G29bLUAK_normal.jpg",
+					"profile_link_color" : "ABB8C2",
+					"profile_sidebar_border_color" : "000000",
+					"profile_sidebar_fill_color" : "000000",
+					"profile_text_color" : "000000",
+					"profile_use_background_image" : false,
+					"protected" : false,
+					"screen_name" : "RodStryker",
+					"statuses_count" : 276468,
+					"time_zone" : null,
+					"translator_type" : "none",
+					"url" : "https://t.co/07vwPqcUMA",
+					"utc_offset" : null,
+					"verified" : false
+				}
+			},
+			"source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"text" : "RT @RodStryker: 8) \"It's Beginning To Look A Lot Like Christmas\"\n - Forced gender-specific gifts: dolls for Janice &amp; Jen and boots &amp; pistol…",
+			"truncated" : false,
+			"user" : 
+			{
+				"contributors_enabled" : false,
+				"created_at" : "Sat Mar 04 23:50:02 +0000 2017",
+				"default_profile" : true,
+				"default_profile_image" : false,
+				"description" : "Law Enforcement/Scientist #MAGA #MMA NO List & NO DM’s",
+				"entities" : 
+				{
+					"description" : 
+					{
+						"urls" : []
+					}
+				},
+				"favourites_count" : 232074,
+				"follow_request_sent" : false,
+				"followers_count" : 5848,
+				"following" : false,
+				"friends_count" : 5322,
+				"geo_enabled" : false,
+				"has_extended_profile" : false,
+				"id" : 838174727143317505,
+				"id_str" : "838174727143317505",
+				"is_translation_enabled" : false,
+				"is_translator" : false,
+				"lang" : "en",
+				"listed_count" : 32,
+				"location" : "Dallas, Texas, USA",
+				"name" : "@Melissa",
+				"notifications" : false,
+				"profile_background_color" : "F5F8FA",
+				"profile_background_image_url" : null,
+				"profile_background_image_url_https" : null,
+				"profile_background_tile" : false,
+				"profile_banner_url" : "https://pbs.twimg.com/profile_banners/838174727143317505/1517186341",
+				"profile_image_url" : "http://pbs.twimg.com/profile_images/1062044244859334662/bSkQ0msS_normal.jpg",
+				"profile_image_url_https" : "https://pbs.twimg.com/profile_images/1062044244859334662/bSkQ0msS_normal.jpg",
+				"profile_link_color" : "1DA1F2",
+				"profile_sidebar_border_color" : "C0DEED",
+				"profile_sidebar_fill_color" : "DDEEF6",
+				"profile_text_color" : "333333",
+				"profile_use_background_image" : true,
+				"protected" : false,
+				"screen_name" : "Melissa31920880",
+				"statuses_count" : 273701,
+				"time_zone" : null,
+				"translator_type" : "none",
+				"url" : null,
+				"utc_offset" : null,
+				"verified" : false
+			}
+		},
+		{
+			"contributors" : null,
+			"coordinates" : null,
+			"created_at" : "Fri Dec 14 15:35:22 +0000 2018",
+			"entities" : 
+			{
+				"hashtags" : [],
+				"symbols" : [],
+				"urls" : [],
+				"user_mentions" : 
+				[
+					{
+						"id" : 840518156150018048,
+						"id_str" : "840518156150018048",
+						"indices" : 
+						[
+							3,
+							19
+						],
+						"name" : "Kate Bond",
+						"screen_name" : "bondkatebond000"
+					}
+				]
+			},
+			"favorite_count" : 0,
+			"favorited" : false,
+			"geo" : null,
+			"id" : 1073602355449487361,
+			"id_str" : "1073602355449487361",
+			"in_reply_to_screen_name" : null,
+			"in_reply_to_status_id" : null,
+			"in_reply_to_status_id_str" : null,
+			"in_reply_to_user_id" : null,
+			"in_reply_to_user_id_str" : null,
+			"is_quote_status" : false,
+			"lang" : "en",
+			"metadata" : 
+			{
+				"iso_language_code" : "en",
+				"result_type" : "recent"
+			},
+			"place" : null,
+			"retweet_count" : 65,
+			"retweeted" : false,
+			"retweeted_status" : 
+			{
+				"contributors" : null,
+				"coordinates" : null,
+				"created_at" : "Thu Dec 13 10:35:23 +0000 2018",
+				"entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "twitter.com/i/web/status/1…",
+							"expanded_url" : "https://twitter.com/i/web/status/1073164474452992000",
+							"indices" : 
+							[
+								117,
+								140
+							],
+							"url" : "https://t.co/L4ZPlSp2bE"
+						}
+					],
+					"user_mentions" : []
+				},
+				"favorite_count" : 504,
+				"favorited" : false,
+				"geo" : null,
+				"id" : 1073164474452992000,
+				"id_str" : "1073164474452992000",
+				"in_reply_to_screen_name" : null,
+				"in_reply_to_status_id" : null,
+				"in_reply_to_status_id_str" : null,
+				"in_reply_to_user_id" : null,
+				"in_reply_to_user_id_str" : null,
+				"is_quote_status" : false,
+				"lang" : "en",
+				"metadata" : 
+				{
+					"iso_language_code" : "en",
+					"result_type" : "recent"
+				},
+				"place" : null,
+				"retweet_count" : 65,
+				"retweeted" : false,
+				"source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"text" : "Can’t wait to see everyone come back from uni at Christmas, some will have found a new confidence, some will have g… https://t.co/L4ZPlSp2bE",
+				"truncated" : true,
+				"user" : 
+				{
+					"contributors_enabled" : false,
+					"created_at" : "Sat Mar 11 11:01:59 +0000 2017",
+					"default_profile" : true,
+					"default_profile_image" : false,
+					"description" : "",
+					"entities" : 
+					{
+						"description" : 
+						{
+							"urls" : []
+						}
+					},
+					"favourites_count" : 7071,
+					"follow_request_sent" : false,
+					"followers_count" : 209,
+					"following" : false,
+					"friends_count" : 393,
+					"geo_enabled" : false,
+					"has_extended_profile" : true,
+					"id" : 840518156150018048,
+					"id_str" : "840518156150018048",
+					"is_translation_enabled" : false,
+					"is_translator" : false,
+					"lang" : "en",
+					"listed_count" : 0,
+					"location" : "United Kingdom",
+					"name" : "Kate Bond",
+					"notifications" : false,
+					"profile_background_color" : "F5F8FA",
+					"profile_background_image_url" : null,
+					"profile_background_image_url_https" : null,
+					"profile_background_tile" : false,
+					"profile_banner_url" : "https://pbs.twimg.com/profile_banners/840518156150018048/1544718015",
+					"profile_image_url" : "http://pbs.twimg.com/profile_images/1069321837945995264/j36OB61I_normal.jpg",
+					"profile_image_url_https" : "https://pbs.twimg.com/profile_images/1069321837945995264/j36OB61I_normal.jpg",
+					"profile_link_color" : "1DA1F2",
+					"profile_sidebar_border_color" : "C0DEED",
+					"profile_sidebar_fill_color" : "DDEEF6",
+					"profile_text_color" : "333333",
+					"profile_use_background_image" : true,
+					"protected" : false,
+					"screen_name" : "bondkatebond000",
+					"statuses_count" : 838,
+					"time_zone" : null,
+					"translator_type" : "none",
+					"url" : null,
+					"utc_offset" : null,
+					"verified" : false
+				}
+			},
+			"source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"text" : "RT @bondkatebond000: Can’t wait to see everyone come back from uni at Christmas, some will have found a new confidence, some will have gain…",
+			"truncated" : false,
+			"user" : 
+			{
+				"contributors_enabled" : false,
+				"created_at" : "Thu Jan 29 08:29:48 +0000 2015",
+				"default_profile" : true,
+				"default_profile_image" : false,
+				"description" : "",
+				"entities" : 
+				{
+					"description" : 
+					{
+						"urls" : []
+					}
+				},
+				"favourites_count" : 1018,
+				"follow_request_sent" : false,
+				"followers_count" : 121,
+				"following" : false,
+				"friends_count" : 98,
+				"geo_enabled" : false,
+				"has_extended_profile" : true,
+				"id" : 3000875239,
+				"id_str" : "3000875239",
+				"is_translation_enabled" : false,
+				"is_translator" : false,
+				"lang" : "en-GB",
+				"listed_count" : 1,
+				"location" : "",
+				"name" : "ABI",
+				"notifications" : false,
+				"profile_background_color" : "C0DEED",
+				"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile" : false,
+				"profile_banner_url" : "https://pbs.twimg.com/profile_banners/3000875239/1464112330",
+				"profile_image_url" : "http://pbs.twimg.com/profile_images/972212922641534982/bB4V-SCJ_normal.jpg",
+				"profile_image_url_https" : "https://pbs.twimg.com/profile_images/972212922641534982/bB4V-SCJ_normal.jpg",
+				"profile_link_color" : "1DA1F2",
+				"profile_sidebar_border_color" : "C0DEED",
+				"profile_sidebar_fill_color" : "DDEEF6",
+				"profile_text_color" : "333333",
+				"profile_use_background_image" : true,
+				"protected" : false,
+				"screen_name" : "Abiiprentice",
+				"statuses_count" : 250,
+				"time_zone" : null,
+				"translator_type" : "none",
+				"url" : null,
+				"utc_offset" : null,
+				"verified" : false
+			}
+		},
+		{
+			"contributors" : null,
+			"coordinates" : null,
+			"created_at" : "Fri Dec 14 15:35:22 +0000 2018",
+			"entities" : 
+			{
+				"hashtags" : [],
+				"symbols" : [],
+				"urls" : [],
+				"user_mentions" : 
+				[
+					{
+						"id" : 2273294575,
+						"id_str" : "2273294575",
+						"indices" : 
+						[
+							3,
+							17
+						],
+						"name" : "Jackson Strick",
+						"screen_name" : "StrickJackson"
+					}
+				]
+			},
+			"favorite_count" : 0,
+			"favorited" : false,
+			"geo" : null,
+			"id" : 1073602355269124096,
+			"id_str" : "1073602355269124096",
+			"in_reply_to_screen_name" : null,
+			"in_reply_to_status_id" : null,
+			"in_reply_to_status_id_str" : null,
+			"in_reply_to_user_id" : null,
+			"in_reply_to_user_id_str" : null,
+			"is_quote_status" : false,
+			"lang" : "en",
+			"metadata" : 
+			{
+				"iso_language_code" : "en",
+				"result_type" : "recent"
+			},
+			"place" : null,
+			"retweet_count" : 2571,
+			"retweeted" : false,
+			"retweeted_status" : 
+			{
+				"contributors" : null,
+				"coordinates" : null,
+				"created_at" : "Thu Dec 13 21:28:55 +0000 2018",
+				"entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "twitter.com/i/web/status/1…",
+							"expanded_url" : "https://twitter.com/i/web/status/1073328940176023557",
+							"indices" : 
+							[
+								116,
+								139
+							],
+							"url" : "https://t.co/VsWDg19Aas"
+						}
+					],
+					"user_mentions" : []
+				},
+				"favorite_count" : 21803,
+				"favorited" : false,
+				"geo" : null,
+				"id" : 1073328940176023557,
+				"id_str" : "1073328940176023557",
+				"in_reply_to_screen_name" : null,
+				"in_reply_to_status_id" : null,
+				"in_reply_to_status_id_str" : null,
+				"in_reply_to_user_id" : null,
+				"in_reply_to_user_id_str" : null,
+				"is_quote_status" : false,
+				"lang" : "en",
+				"metadata" : 
+				{
+					"iso_language_code" : "en",
+					"result_type" : "recent"
+				},
+				"place" : null,
+				"retweet_count" : 2571,
+				"retweeted" : false,
+				"source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"text" : "Being single is totally fine honestly. But when Christmas comes around and I see all of these couples and they are… https://t.co/VsWDg19Aas",
+				"truncated" : true,
+				"user" : 
+				{
+					"contributors_enabled" : false,
+					"created_at" : "Thu Jan 02 17:02:41 +0000 2014",
+					"default_profile" : true,
+					"default_profile_image" : false,
+					"description" : "GVSU | I tweet | President of @BestBuddies14",
+					"entities" : 
+					{
+						"description" : 
+						{
+							"urls" : []
+						}
+					},
+					"favourites_count" : 8450,
+					"follow_request_sent" : false,
+					"followers_count" : 23165,
+					"following" : false,
+					"friends_count" : 22984,
+					"geo_enabled" : true,
+					"has_extended_profile" : false,
+					"id" : 2273294575,
+					"id_str" : "2273294575",
+					"is_translation_enabled" : false,
+					"is_translator" : false,
+					"lang" : "en",
+					"listed_count" : 77,
+					"location" : "Chicago, IL",
+					"name" : "Jackson Strick",
+					"notifications" : false,
+					"profile_background_color" : "C0DEED",
+					"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile" : false,
+					"profile_banner_url" : "https://pbs.twimg.com/profile_banners/2273294575/1526860504",
+					"profile_image_url" : "http://pbs.twimg.com/profile_images/1067840072387579906/jYpGvfPQ_normal.jpg",
+					"profile_image_url_https" : "https://pbs.twimg.com/profile_images/1067840072387579906/jYpGvfPQ_normal.jpg",
+					"profile_link_color" : "1DA1F2",
+					"profile_sidebar_border_color" : "C0DEED",
+					"profile_sidebar_fill_color" : "DDEEF6",
+					"profile_text_color" : "333333",
+					"profile_use_background_image" : true,
+					"protected" : false,
+					"screen_name" : "StrickJackson",
+					"statuses_count" : 5439,
+					"time_zone" : null,
+					"translator_type" : "none",
+					"url" : null,
+					"utc_offset" : null,
+					"verified" : false
+				}
+			},
+			"source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"text" : "RT @StrickJackson: Being single is totally fine honestly. But when Christmas comes around and I see all of these couples and they are doing…",
+			"truncated" : false,
+			"user" : 
+			{
+				"contributors_enabled" : false,
+				"created_at" : "Mon Oct 10 00:08:27 +0000 2016",
+				"default_profile" : false,
+				"default_profile_image" : false,
+				"description" : "11.17.13✌🏽 #Dreamchasers/FREEBANDZ🗣💰 I just wanna see the sun shine tomorrow",
+				"entities" : 
+				{
+					"description" : 
+					{
+						"urls" : []
+					}
+				},
+				"favourites_count" : 4797,
+				"follow_request_sent" : false,
+				"followers_count" : 6820,
+				"following" : false,
+				"friends_count" : 862,
+				"geo_enabled" : true,
+				"has_extended_profile" : true,
+				"id" : 785270732586676224,
+				"id_str" : "785270732586676224",
+				"is_translation_enabled" : false,
+				"is_translator" : false,
+				"lang" : "en",
+				"listed_count" : 68,
+				"location" : "Cincinnati, OH",
+				"name" : "Bmun💰",
+				"notifications" : false,
+				"profile_background_color" : "000000",
+				"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile" : false,
+				"profile_banner_url" : "https://pbs.twimg.com/profile_banners/785270732586676224/1542024610",
+				"profile_image_url" : "http://pbs.twimg.com/profile_images/1056631348050493440/PEuXbq08_normal.jpg",
+				"profile_image_url_https" : "https://pbs.twimg.com/profile_images/1056631348050493440/PEuXbq08_normal.jpg",
+				"profile_link_color" : "981CEB",
+				"profile_sidebar_border_color" : "000000",
+				"profile_sidebar_fill_color" : "000000",
+				"profile_text_color" : "000000",
+				"profile_use_background_image" : false,
+				"protected" : false,
+				"screen_name" : "__bmun",
+				"statuses_count" : 60495,
+				"time_zone" : null,
+				"translator_type" : "none",
+				"url" : null,
+				"utc_offset" : null,
+				"verified" : false
+			}
+		},
+		{
+			"contributors" : null,
+			"coordinates" : null,
+			"created_at" : "Fri Dec 14 15:35:22 +0000 2018",
+			"entities" : 
+			{
+				"hashtags" : [],
+				"symbols" : [],
+				"urls" : 
+				[
+					{
+						"display_url" : "youtu.be/ULcHkwv3YZg",
+						"expanded_url" : "https://youtu.be/ULcHkwv3YZg",
+						"indices" : 
+						[
+							102,
+							125
+						],
+						"url" : "https://t.co/9xyHZKMTZ7"
+					}
+				],
+				"user_mentions" : 
+				[
+					{
+						"id" : 2221795000,
+						"id_str" : "2221795000",
+						"indices" : 
+						[
+							3,
+							15
+						],
+						"name" : "Brendan Murray",
+						"screen_name" : "brendan_m96"
+					}
+				]
+			},
+			"favorite_count" : 0,
+			"favorited" : false,
+			"geo" : null,
+			"id" : 1073602355034152960,
+			"id_str" : "1073602355034152960",
+			"in_reply_to_screen_name" : null,
+			"in_reply_to_status_id" : null,
+			"in_reply_to_status_id_str" : null,
+			"in_reply_to_user_id" : null,
+			"in_reply_to_user_id_str" : null,
+			"is_quote_status" : false,
+			"lang" : "en",
+			"metadata" : 
+			{
+				"iso_language_code" : "en",
+				"result_type" : "recent"
+			},
+			"place" : null,
+			"possibly_sensitive" : false,
+			"retweet_count" : 268,
+			"retweeted" : false,
+			"retweeted_status" : 
+			{
+				"contributors" : null,
+				"coordinates" : null,
+				"created_at" : "Fri Dec 14 13:54:02 +0000 2018",
+				"entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "youtu.be/ULcHkwv3YZg",
+							"expanded_url" : "https://youtu.be/ULcHkwv3YZg",
+							"indices" : 
+							[
+								85,
+								108
+							],
+							"url" : "https://t.co/9xyHZKMTZ7"
+						}
+					],
+					"user_mentions" : []
+				},
+				"favorite_count" : 1232,
+				"favorited" : false,
+				"geo" : null,
+				"id" : 1073576853791760385,
+				"id_str" : "1073576853791760385",
+				"in_reply_to_screen_name" : null,
+				"in_reply_to_status_id" : null,
+				"in_reply_to_status_id_str" : null,
+				"in_reply_to_user_id" : null,
+				"in_reply_to_user_id_str" : null,
+				"is_quote_status" : false,
+				"lang" : "en",
+				"metadata" : 
+				{
+					"iso_language_code" : "en",
+					"result_type" : "recent"
+				},
+				"place" : null,
+				"possibly_sensitive" : false,
+				"retweet_count" : 268,
+				"retweeted" : false,
+				"source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"text" : "Hope your all enjoying my Christmas cover! 🎄 looking forward to showing you more 😏🙈\n\nhttps://t.co/9xyHZKMTZ7",
+				"truncated" : false,
+				"user" : 
+				{
+					"contributors_enabled" : false,
+					"created_at" : "Thu Dec 12 16:45:13 +0000 2013",
+					"default_profile" : true,
+					"default_profile_image" : false,
+					"description" : "• 21 years old 🤙🏼 • Galway, Ireland 🇮🇪 • X factor 2018 ❌ • Email - Murraybrendan28@gmail.com 📩",
+					"entities" : 
+					{
+						"description" : 
+						{
+							"urls" : []
+						},
+						"url" : 
+						{
+							"urls" : 
+							[
+								{
+									"display_url" : "instagram.com/brendanmurray9…",
+									"expanded_url" : "https://www.instagram.com/brendanmurray96/",
+									"indices" : 
+									[
+										0,
+										23
+									],
+									"url" : "https://t.co/SZ3LMDuEhD"
+								}
+							]
+						}
+					},
+					"favourites_count" : 6878,
+					"follow_request_sent" : false,
+					"followers_count" : 76925,
+					"following" : false,
+					"friends_count" : 3866,
+					"geo_enabled" : false,
+					"has_extended_profile" : false,
+					"id" : 2221795000,
+					"id_str" : "2221795000",
+					"is_translation_enabled" : false,
+					"is_translator" : false,
+					"lang" : "en-gb",
+					"listed_count" : 315,
+					"location" : "Galway, Ireland",
+					"name" : "Brendan Murray",
+					"notifications" : false,
+					"profile_background_color" : "C0DEED",
+					"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile" : false,
+					"profile_banner_url" : "https://pbs.twimg.com/profile_banners/2221795000/1541808280",
+					"profile_image_url" : "http://pbs.twimg.com/profile_images/1059525351758614530/UHeyVatb_normal.jpg",
+					"profile_image_url_https" : "https://pbs.twimg.com/profile_images/1059525351758614530/UHeyVatb_normal.jpg",
+					"profile_link_color" : "1DA1F2",
+					"profile_sidebar_border_color" : "C0DEED",
+					"profile_sidebar_fill_color" : "DDEEF6",
+					"profile_text_color" : "333333",
+					"profile_use_background_image" : true,
+					"protected" : false,
+					"screen_name" : "brendan_m96",
+					"statuses_count" : 7568,
+					"time_zone" : null,
+					"translator_type" : "none",
+					"url" : "https://t.co/SZ3LMDuEhD",
+					"utc_offset" : null,
+					"verified" : true
+				}
+			},
+			"source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"text" : "RT @brendan_m96: Hope your all enjoying my Christmas cover! 🎄 looking forward to showing you more 😏🙈\n\nhttps://t.co/9xyHZKMTZ7",
+			"truncated" : false,
+			"user" : 
+			{
+				"contributors_enabled" : false,
+				"created_at" : "Sat Feb 25 23:24:54 +0000 2017",
+				"default_profile" : true,
+				"default_profile_image" : false,
+				"description" : "💙💚🌈",
+				"entities" : 
+				{
+					"description" : 
+					{
+						"urls" : []
+					}
+				},
+				"favourites_count" : 18776,
+				"follow_request_sent" : false,
+				"followers_count" : 252,
+				"following" : false,
+				"friends_count" : 542,
+				"geo_enabled" : true,
+				"has_extended_profile" : true,
+				"id" : 835631689976074240,
+				"id_str" : "835631689976074240",
+				"is_translation_enabled" : false,
+				"is_translator" : false,
+				"lang" : "es",
+				"listed_count" : 0,
+				"location" : "",
+				"name" : "Noelia Hernandez",
+				"notifications" : false,
+				"profile_background_color" : "F5F8FA",
+				"profile_background_image_url" : null,
+				"profile_background_image_url_https" : null,
+				"profile_background_tile" : false,
+				"profile_banner_url" : "https://pbs.twimg.com/profile_banners/835631689976074240/1505442032",
+				"profile_image_url" : "http://pbs.twimg.com/profile_images/840025505998999552/2_Dd7GaU_normal.jpg",
+				"profile_image_url_https" : "https://pbs.twimg.com/profile_images/840025505998999552/2_Dd7GaU_normal.jpg",
+				"profile_link_color" : "1DA1F2",
+				"profile_sidebar_border_color" : "C0DEED",
+				"profile_sidebar_fill_color" : "DDEEF6",
+				"profile_text_color" : "333333",
+				"profile_use_background_image" : true,
+				"protected" : false,
+				"screen_name" : "noeliahoran16",
+				"statuses_count" : 13070,
+				"time_zone" : null,
+				"translator_type" : "none",
+				"url" : null,
+				"utc_offset" : null,
+				"verified" : false
+			}
+		},
+		{
+			"contributors" : null,
+			"coordinates" : null,
+			"created_at" : "Fri Dec 14 15:35:22 +0000 2018",
+			"entities" : 
+			{
+				"hashtags" : [],
+				"symbols" : [],
+				"urls" : [],
+				"user_mentions" : 
+				[
+					{
+						"id" : 4091264530,
+						"id_str" : "4091264530",
+						"indices" : 
+						[
+							3,
+							19
+						],
+						"name" : "Helen C Martin",
+						"screen_name" : "HelenCMartinFBS"
+					},
+					{
+						"id" : 2861195879,
+						"id_str" : "2861195879",
+						"indices" : 
+						[
+							69,
+							83
+						],
+						"name" : "USW Police Sciences",
+						"screen_name" : "USW_PoliceSci"
+					}
+				]
+			},
+			"favorite_count" : 0,
+			"favorited" : false,
+			"geo" : null,
+			"id" : 1073602354199609345,
+			"id_str" : "1073602354199609345",
+			"in_reply_to_screen_name" : null,
+			"in_reply_to_status_id" : null,
+			"in_reply_to_status_id_str" : null,
+			"in_reply_to_user_id" : null,
+			"in_reply_to_user_id_str" : null,
+			"is_quote_status" : false,
+			"lang" : "en",
+			"metadata" : 
+			{
+				"iso_language_code" : "en",
+				"result_type" : "recent"
+			},
+			"place" : null,
+			"retweet_count" : 1,
+			"retweeted" : false,
+			"retweeted_status" : 
+			{
+				"contributors" : null,
+				"coordinates" : null,
+				"created_at" : "Fri Dec 14 14:31:07 +0000 2018",
+				"entities" : 
+				{
+					"hashtags" : [],
+					"symbols" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "twitter.com/i/web/status/1…",
+							"expanded_url" : "https://twitter.com/i/web/status/1073586185652584448",
+							"indices" : 
+							[
+								117,
+								140
+							],
+							"url" : "https://t.co/gEyFDOqFv2"
+						}
+					],
+					"user_mentions" : 
+					[
+						{
+							"id" : 2861195879,
+							"id_str" : "2861195879",
+							"indices" : 
+							[
+								48,
+								62
+							],
+							"name" : "USW Police Sciences",
+							"screen_name" : "USW_PoliceSci"
+						}
+					]
+				},
+				"favorite_count" : 2,
+				"favorited" : false,
+				"geo" : null,
+				"id" : 1073586185652584448,
+				"id_str" : "1073586185652584448",
+				"in_reply_to_screen_name" : null,
+				"in_reply_to_status_id" : null,
+				"in_reply_to_status_id_str" : null,
+				"in_reply_to_user_id" : null,
+				"in_reply_to_user_id_str" : null,
+				"is_quote_status" : false,
+				"lang" : "en",
+				"metadata" : 
+				{
+					"iso_language_code" : "en",
+					"result_type" : "recent"
+				},
+				"place" : null,
+				"possibly_sensitive" : false,
+				"retweet_count" : 1,
+				"retweeted" : false,
+				"source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"text" : "Last day today for our Police Sciences students @USW_PoliceSci \nbefore the break. To all our students and all my st… https://t.co/gEyFDOqFv2",
+				"truncated" : true,
+				"user" : 
+				{
+					"contributors_enabled" : false,
+					"created_at" : "Sun Nov 01 16:49:58 +0000 2015",
+					"default_profile" : false,
+					"default_profile_image" : false,
+					"description" : "Head of Policing & Security @USW_PoliceSci                                \nAcademic Subject Manager at University of South Wales.",
+					"entities" : 
+					{
+						"description" : 
+						{
+							"urls" : []
+						},
+						"url" : 
+						{
+							"urls" : 
+							[
+								{
+									"display_url" : "southwales.ac.uk/courses/bsc-ho…",
+									"expanded_url" : "https://www.southwales.ac.uk/courses/bsc-hons-police-sciences/",
+									"indices" : 
+									[
+										0,
+										23
+									],
+									"url" : "https://t.co/nMGtPNjTut"
+								}
+							]
+						}
+					},
+					"favourites_count" : 2105,
+					"follow_request_sent" : false,
+					"followers_count" : 362,
+					"following" : false,
+					"friends_count" : 602,
+					"geo_enabled" : false,
+					"has_extended_profile" : false,
+					"id" : 4091264530,
+					"id_str" : "4091264530",
+					"is_translation_enabled" : false,
+					"is_translator" : false,
+					"lang" : "en",
+					"listed_count" : 1,
+					"location" : "University of South Wales",
+					"name" : "Helen C Martin",
+					"notifications" : false,
+					"profile_background_color" : "000000",
+					"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile" : false,
+					"profile_banner_url" : "https://pbs.twimg.com/profile_banners/4091264530/1518292453",
+					"profile_image_url" : "http://pbs.twimg.com/profile_images/1068910030483791873/kMngoBA9_normal.jpg",
+					"profile_image_url_https" : "https://pbs.twimg.com/profile_images/1068910030483791873/kMngoBA9_normal.jpg",
+					"profile_link_color" : "DD2E44",
+					"profile_sidebar_border_color" : "000000",
+					"profile_sidebar_fill_color" : "000000",
+					"profile_text_color" : "000000",
+					"profile_use_background_image" : false,
+					"protected" : false,
+					"screen_name" : "HelenCMartinFBS",
+					"statuses_count" : 2200,
+					"time_zone" : null,
+					"translator_type" : "none",
+					"url" : "https://t.co/nMGtPNjTut",
+					"utc_offset" : null,
+					"verified" : false
+				}
+			},
+			"source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"text" : "RT @HelenCMartinFBS: Last day today for our Police Sciences students @USW_PoliceSci \nbefore the break. To all our students and all my staff…",
+			"truncated" : false,
+			"user" : 
+			{
+				"contributors_enabled" : false,
+				"created_at" : "Tue Nov 04 19:08:53 +0000 2014",
+				"default_profile" : true,
+				"default_profile_image" : false,
+				"description" : "Latest news from the Centre for Policing and Security at USW. Experts in police education, we have been teaching Police Sciences for more than 15 years",
+				"entities" : 
+				{
+					"description" : 
+					{
+						"urls" : []
+					},
+					"url" : 
+					{
+						"urls" : 
+						[
+							{
+								"display_url" : "southwales.ac.uk/courses/bsc-ho…",
+								"expanded_url" : "https://www.southwales.ac.uk/courses/bsc-hons-police-sciences/",
+								"indices" : 
+								[
+									0,
+									23
+								],
+								"url" : "https://t.co/nMGtPNjTut"
+							}
+						]
+					}
+				},
+				"favourites_count" : 1145,
+				"follow_request_sent" : false,
+				"followers_count" : 595,
+				"following" : false,
+				"friends_count" : 822,
+				"geo_enabled" : false,
+				"has_extended_profile" : false,
+				"id" : 2861195879,
+				"id_str" : "2861195879",
+				"is_translation_enabled" : false,
+				"is_translator" : false,
+				"lang" : "en-gb",
+				"listed_count" : 10,
+				"location" : "University of South Wales",
+				"name" : "USW Police Sciences",
+				"notifications" : false,
+				"profile_background_color" : "C0DEED",
+				"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile" : false,
+				"profile_banner_url" : "https://pbs.twimg.com/profile_banners/2861195879/1539010317",
+				"profile_image_url" : "http://pbs.twimg.com/profile_images/1049313282052575232/75n-49WD_normal.jpg",
+				"profile_image_url_https" : "https://pbs.twimg.com/profile_images/1049313282052575232/75n-49WD_normal.jpg",
+				"profile_link_color" : "1DA1F2",
+				"profile_sidebar_border_color" : "C0DEED",
+				"profile_sidebar_fill_color" : "DDEEF6",
+				"profile_text_color" : "333333",
+				"profile_use_background_image" : true,
+				"protected" : false,
+				"screen_name" : "USW_PoliceSci",
+				"statuses_count" : 1860,
+				"time_zone" : null,
+				"translator_type" : "none",
+				"url" : "https://t.co/nMGtPNjTut",
+				"utc_offset" : null,
+				"verified" : false
+			}
+		},
+		{
+			"contributors" : null,
+			"coordinates" : null,
+			"created_at" : "Fri Dec 14 15:35:22 +0000 2018",
+			"entities" : 
+			{
+				"hashtags" : [],
+				"symbols" : [],
+				"urls" : 
+				[
+					{
+						"display_url" : "twitter.com/i/web/status/1…",
+						"expanded_url" : "https://twitter.com/i/web/status/1073602354082181120",
+						"indices" : 
+						[
+							117,
+							140
+						],
+						"url" : "https://t.co/23I7Qrop1x"
+					}
+				],
+				"user_mentions" : 
+				[
+					{
+						"id" : 843858335363416064,
+						"id_str" : "843858335363416064",
+						"indices" : 
+						[
+							0,
+							11
+						],
+						"name" : "ToySeek",
+						"screen_name" : "toyseekcom"
+					},
+					{
+						"id" : 842338038864830468,
+						"id_str" : "842338038864830468",
+						"indices" : 
+						[
+							12,
+							24
+						],
+						"name" : "🎄🎅🏻🎁🤶Di🎄🎅🏻🎁🤶",
+						"screen_name" : "Dianawill12"
+					},
+					{
+						"id" : 4841866347,
+						"id_str" : "4841866347",
+						"indices" : 
+						[
+							25,
+							33
+						],
+						"name" : "Deanie Gillies",
+						"screen_name" : "Neanes1"
+					},
+					{
+						"id" : 209672471,
+						"id_str" : "209672471",
+						"indices" : 
+						[
+							34,
+							43
+						],
+						"name" : "Anna Brown",
+						"screen_name" : "annalb83"
+					}
+				]
+			},
+			"favorite_count" : 0,
+			"favorited" : false,
+			"geo" : null,
+			"id" : 1073602354082181120,
+			"id_str" : "1073602354082181120",
+			"in_reply_to_screen_name" : "toyseekcom",
+			"in_reply_to_status_id" : 1072793375659708417,
+			"in_reply_to_status_id_str" : "1072793375659708417",
+			"in_reply_to_user_id" : 843858335363416064,
+			"in_reply_to_user_id_str" : "843858335363416064",
+			"is_quote_status" : false,
+			"lang" : "en",
+			"metadata" : 
+			{
+				"iso_language_code" : "en",
+				"result_type" : "recent"
+			},
+			"place" : null,
+			"retweet_count" : 0,
+			"retweeted" : false,
+			"source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"text" : "@toyseekcom @Dianawill12 @Neanes1 @annalb83 one of us should win as we have family who would love this prize. It wo… https://t.co/23I7Qrop1x",
+			"truncated" : true,
+			"user" : 
+			{
+				"contributors_enabled" : false,
+				"created_at" : "Mon Apr 09 20:35:35 +0000 2012",
+				"default_profile" : true,
+				"default_profile_image" : false,
+				"description" : "live life each day as it comes x and live it to the max !!!!Tottenham fan !!!!!!",
+				"entities" : 
+				{
+					"description" : 
+					{
+						"urls" : []
+					}
+				},
+				"favourites_count" : 3704,
+				"follow_request_sent" : false,
+				"followers_count" : 1526,
+				"following" : false,
+				"friends_count" : 3884,
+				"geo_enabled" : false,
+				"has_extended_profile" : true,
+				"id" : 549529003,
+				"id_str" : "549529003",
+				"is_translation_enabled" : false,
+				"is_translator" : false,
+				"lang" : "en",
+				"listed_count" : 9,
+				"location" : "",
+				"name" : "donna 🎄🎁🐶🍀",
+				"notifications" : false,
+				"profile_background_color" : "C0DEED",
+				"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile" : false,
+				"profile_image_url" : "http://pbs.twimg.com/profile_images/831220746311626753/6hDK86aq_normal.jpg",
+				"profile_image_url_https" : "https://pbs.twimg.com/profile_images/831220746311626753/6hDK86aq_normal.jpg",
+				"profile_link_color" : "1DA1F2",
+				"profile_sidebar_border_color" : "C0DEED",
+				"profile_sidebar_fill_color" : "DDEEF6",
+				"profile_text_color" : "333333",
+				"profile_use_background_image" : true,
+				"protected" : false,
+				"screen_name" : "donna1276",
+				"statuses_count" : 7132,
+				"time_zone" : null,
+				"translator_type" : "none",
+				"url" : null,
+				"utc_offset" : null,
+				"verified" : false
+			}
+		},
+		{
+			"contributors" : null,
+			"coordinates" : null,
+			"created_at" : "Fri Dec 14 15:35:22 +0000 2018",
+			"entities" : 
+			{
+				"hashtags" : 
+				[
+					{
+						"indices" : 
+						[
+							28,
+							43
+						],
+						"text" : "AdventCalendar"
+					},
+					{
+						"indices" : 
+						[
+							44,
+							60
+						],
+						"text" : "CompetitionTime"
+					}
+				],
+				"symbols" : [],
+				"urls" : [],
+				"user_mentions" : 
+				[
+					{
+						"id" : 468249994,
+						"id_str" : "468249994",
+						"indices" : 
+						[
+							3,
+							19
+						],
+						"name" : "Gibsons",
+						"screen_name" : "Gibsons_puzzles"
+					}
+				]
+			},
+			"favorite_count" : 0,
+			"favorited" : false,
+			"geo" : null,
+			"id" : 1073602354006634497,
+			"id_str" : "1073602354006634497",
+			"in_reply_to_screen_name" : null,
+			"in_reply_to_status_id" : null,
+			"in_reply_to_status_id_str" : null,
+			"in_reply_to_user_id" : null,
+			"in_reply_to_user_id_str" : null,
+			"is_quote_status" : false,
+			"lang" : "en",
+			"metadata" : 
+			{
+				"iso_language_code" : "en",
+				"result_type" : "recent"
+			},
+			"place" : null,
+			"retweet_count" : 314,
+			"retweeted" : false,
+			"retweeted_status" : 
+			{
+				"contributors" : null,
+				"coordinates" : null,
+				"created_at" : "Fri Dec 14 08:00:00 +0000 2018",
+				"entities" : 
+				{
+					"hashtags" : 
+					[
+						{
+							"indices" : 
+							[
+								7,
+								22
+							],
+							"text" : "AdventCalendar"
+						},
+						{
+							"indices" : 
+							[
+								23,
+								39
+							],
+							"text" : "CompetitionTime"
+						}
+					],
+					"symbols" : [],
+					"urls" : 
+					[
+						{
+							"display_url" : "twitter.com/i/web/status/1…",
+							"expanded_url" : "https://twitter.com/i/web/status/1073487758038102016",
+							"indices" : 
+							[
+								117,
+								140
+							],
+							"url" : "https://t.co/DRUgE8VF8M"
+						}
+					],
+					"user_mentions" : []
+				},
+				"favorite_count" : 377,
+				"favorited" : false,
+				"geo" : null,
+				"id" : 1073487758038102016,
+				"id_str" : "1073487758038102016",
+				"in_reply_to_screen_name" : null,
+				"in_reply_to_status_id" : null,
+				"in_reply_to_status_id_str" : null,
+				"in_reply_to_user_id" : null,
+				"in_reply_to_user_id_str" : null,
+				"is_quote_status" : false,
+				"lang" : "en",
+				"metadata" : 
+				{
+					"iso_language_code" : "en",
+					"result_type" : "recent"
+				},
+				"place" : null,
+				"possibly_sensitive" : false,
+				"retweet_count" : 314,
+				"retweeted" : false,
+				"source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"text" : "Day 14 #AdventCalendar #CompetitionTime! We are giving away one Christmas-themed product every single day until 24/… https://t.co/DRUgE8VF8M",
+				"truncated" : true,
+				"user" : 
+				{
+					"contributors_enabled" : false,
+					"created_at" : "Thu Jan 19 10:18:25 +0000 2012",
+					"default_profile" : false,
+					"default_profile_image" : false,
+					"description" : "A British, family company we make board games & jigsaw puzzles for all ages.  \nhello@gibsonsgames.co.uk\nCompetition T&Cs: https://t.co/0j5GKUG1Gl",
+					"entities" : 
+					{
+						"description" : 
+						{
+							"urls" : 
+							[
+								{
+									"display_url" : "gibsonsgames.co.uk/conditions",
+									"expanded_url" : "https://gibsonsgames.co.uk/conditions",
+									"indices" : 
+									[
+										122,
+										145
+									],
+									"url" : "https://t.co/0j5GKUG1Gl"
+								}
+							]
+						},
+						"url" : 
+						{
+							"urls" : 
+							[
+								{
+									"display_url" : "gibsonsgames.co.uk",
+									"expanded_url" : "http://www.gibsonsgames.co.uk",
+									"indices" : 
+									[
+										0,
+										22
+									],
+									"url" : "http://t.co/und1kgchOG"
+								}
+							]
+						}
+					},
+					"favourites_count" : 959,
+					"follow_request_sent" : false,
+					"followers_count" : 5033,
+					"following" : false,
+					"friends_count" : 658,
+					"geo_enabled" : false,
+					"has_extended_profile" : false,
+					"id" : 468249994,
+					"id_str" : "468249994",
+					"is_translation_enabled" : false,
+					"is_translator" : false,
+					"lang" : "en",
+					"listed_count" : 36,
+					"location" : "facebook.com/gibsonsgames",
+					"name" : "Gibsons",
+					"notifications" : false,
+					"profile_background_color" : "C0DEED",
+					"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile" : true,
+					"profile_banner_url" : "https://pbs.twimg.com/profile_banners/468249994/1521642372",
+					"profile_image_url" : "http://pbs.twimg.com/profile_images/968047579220135936/D-6OxU4k_normal.jpg",
+					"profile_image_url_https" : "https://pbs.twimg.com/profile_images/968047579220135936/D-6OxU4k_normal.jpg",
+					"profile_link_color" : "0084B4",
+					"profile_sidebar_border_color" : "FFFFFF",
+					"profile_sidebar_fill_color" : "DDEEF6",
+					"profile_text_color" : "333333",
+					"profile_use_background_image" : true,
+					"protected" : false,
+					"screen_name" : "Gibsons_puzzles",
+					"statuses_count" : 1530,
+					"time_zone" : null,
+					"translator_type" : "none",
+					"url" : "http://t.co/und1kgchOG",
+					"utc_offset" : null,
+					"verified" : false
+				}
+			},
+			"source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"text" : "RT @Gibsons_puzzles: Day 14 #AdventCalendar #CompetitionTime! We are giving away one Christmas-themed product every single day until 24/12.…",
+			"truncated" : false,
+			"user" : 
+			{
+				"contributors_enabled" : false,
+				"created_at" : "Fri May 05 15:50:58 +0000 2017",
+				"default_profile" : false,
+				"default_profile_image" : false,
+				"description" : "I am Groot...... travel loving, competition fanatic, mountain biker, F1 mad, Japanorama, 16+teaching & learning education type fella. Rave On.....Mcr 😀",
+				"entities" : 
+				{
+					"description" : 
+					{
+						"urls" : []
+					}
+				},
+				"favourites_count" : 2651,
+				"follow_request_sent" : false,
+				"followers_count" : 598,
+				"following" : false,
+				"friends_count" : 4616,
+				"geo_enabled" : false,
+				"has_extended_profile" : true,
+				"id" : 860522212813660165,
+				"id_str" : "860522212813660165",
+				"is_translation_enabled" : false,
+				"is_translator" : false,
+				"lang" : "en",
+				"listed_count" : 7,
+				"location" : "Derbyshire",
+				"name" : "CompingCodboy",
+				"notifications" : false,
+				"profile_background_color" : "000000",
+				"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile" : false,
+				"profile_banner_url" : "https://pbs.twimg.com/profile_banners/860522212813660165/1495144786",
+				"profile_image_url" : "http://pbs.twimg.com/profile_images/879361986227838978/CIOHDYTS_normal.jpg",
+				"profile_image_url_https" : "https://pbs.twimg.com/profile_images/879361986227838978/CIOHDYTS_normal.jpg",
+				"profile_link_color" : "1B95E0",
+				"profile_sidebar_border_color" : "000000",
+				"profile_sidebar_fill_color" : "000000",
+				"profile_text_color" : "000000",
+				"profile_use_background_image" : false,
+				"protected" : false,
+				"screen_name" : "CompingCodboy",
+				"statuses_count" : 25440,
+				"time_zone" : null,
+				"translator_type" : "none",
+				"url" : null,
+				"utc_offset" : null,
+				"verified" : false
+			}
+		},
+		{
+			"contributors" : null,
+			"coordinates" : null,
+			"created_at" : "Fri Dec 14 15:35:22 +0000 2018",
+			"entities" : 
+			{
+				"hashtags" : [],
+				"symbols" : [],
+				"urls" : [],
+				"user_mentions" : []
+			},
+			"favorite_count" : 0,
+			"favorited" : false,
+			"geo" : null,
+			"id" : 1073602353448636416,
+			"id_str" : "1073602353448636416",
+			"in_reply_to_screen_name" : null,
+			"in_reply_to_status_id" : null,
+			"in_reply_to_status_id_str" : null,
+			"in_reply_to_user_id" : null,
+			"in_reply_to_user_id_str" : null,
+			"is_quote_status" : false,
+			"lang" : "en",
+			"metadata" : 
+			{
+				"iso_language_code" : "en",
+				"result_type" : "recent"
+			},
+			"place" : 
+			{
+				"attributes" : {},
+				"bounding_box" : 
+				{
+					"coordinates" : 
+					[
+						[
+							[
+								121.554489,
+								13.8913446
+							],
+							[
+								121.6983316,
+								13.8913446
+							],
+							[
+								121.6983316,
+								13.9895496
+							],
+							[
+								121.554489,
+								13.9895496
+							]
+						]
+					],
+					"type" : "Polygon"
+				},
+				"contained_within" : [],
+				"country" : "Republic of the Philippines",
+				"country_code" : "PH",
+				"full_name" : "Lucena City, Calabarzon",
+				"id" : "016d66187df0025a",
+				"name" : "Lucena City",
+				"place_type" : "city",
+				"url" : "https://api.twitter.com/1.1/geo/id/016d66187df0025a.json"
+			},
+			"retweet_count" : 0,
+			"retweeted" : false,
+			"source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"text" : "It’s literally just the beginning of Christmas/Sembreak and I already finished 1 anime. This is gonna be a productive break ❤️💯",
+			"truncated" : false,
+			"user" : 
+			{
+				"contributors_enabled" : false,
+				"created_at" : "Thu Nov 20 13:14:50 +0000 2014",
+				"default_profile" : false,
+				"default_profile_image" : false,
+				"description" : "I just wanna study hard and be successful in the future with you @christineamper7",
+				"entities" : 
+				{
+					"description" : 
+					{
+						"urls" : []
+					},
+					"url" : 
+					{
+						"urls" : 
+						[
+							{
+								"display_url" : "curiouscat.me/reidem_",
+								"expanded_url" : "https://curiouscat.me/reidem_",
+								"indices" : 
+								[
+									0,
+									23
+								],
+								"url" : "https://t.co/DXI2amLc6P"
+							}
+						]
+					}
+				},
+				"favourites_count" : 11194,
+				"follow_request_sent" : false,
+				"followers_count" : 668,
+				"following" : false,
+				"friends_count" : 508,
+				"geo_enabled" : true,
+				"has_extended_profile" : true,
+				"id" : 2905164068,
+				"id_str" : "2905164068",
+				"is_translation_enabled" : false,
+				"is_translator" : false,
+				"lang" : "en",
+				"listed_count" : 0,
+				"location" : "C A N A duhh",
+				"name" : "Chicken ng Chi-Cha ❤️",
+				"notifications" : false,
+				"profile_background_color" : "000000",
+				"profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile" : false,
+				"profile_banner_url" : "https://pbs.twimg.com/profile_banners/2905164068/1543065090",
+				"profile_image_url" : "http://pbs.twimg.com/profile_images/1066096222652391424/f_15-JTF_normal.jpg",
+				"profile_image_url_https" : "https://pbs.twimg.com/profile_images/1066096222652391424/f_15-JTF_normal.jpg",
+				"profile_link_color" : "ABB8C2",
+				"profile_sidebar_border_color" : "000000",
+				"profile_sidebar_fill_color" : "000000",
+				"profile_text_color" : "000000",
+				"profile_use_background_image" : false,
+				"protected" : false,
+				"screen_name" : "reidem_",
+				"statuses_count" : 14844,
+				"time_zone" : null,
+				"translator_type" : "none",
+				"url" : "https://t.co/DXI2amLc6P",
+				"utc_offset" : null,
+				"verified" : false
+			}
+		}
+	]
+}

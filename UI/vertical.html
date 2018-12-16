@@ -1,0 +1,81 @@
+<!doctype html>
+<html>
+
+<head>
+	<title>Bar Chart</title>
+	<!-- <script src="Chart.bundle.js"></script> -->
+	<!-- <script src="utils.js"></script> -->
+	<script src="Chart.js"></script>
+	<script src="Chart.min.js"></script>
+	<style>
+	canvas {
+		/*-moz-user-select: none;
+		-webkit-user-select: none;
+		-ms-user-select: none;*/
+	}
+	</style>
+</head>
+
+<body>
+	<div id="container" style="width: 75%;">
+		<canvas id="canvas"></canvas>
+	</div>
+	<script>
+		
+		// var color = Chart.helpers.color;
+		var barChartData = {
+            // labels: ["Red", "Blue", "Yellow", "Green", "Purple", "Orange"],
+            datasets: [{
+                label: 'Result',
+                backgroundColor: //color(window.chartColors.red).alpha(0.5).rgbString(),
+                [
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(54, 162, 235, 0.2)',
+                'rgba(255, 206, 86, 0.2)',
+                'rgba(75, 192, 192, 0.2)',
+                'rgba(153, 102, 255, 0.2)',
+                'rgba(255, 159, 64, 0.2)'
+                ],
+                borderColor: //window.chartColors.red,
+                [
+                'rgba(255,99,132,1)',
+                'rgba(54, 162, 235, 1)',
+                'rgba(255, 206, 86, 1)',
+                'rgba(75, 192, 192, 1)',
+                'rgba(153, 102, 255, 1)',
+                'rgba(255, 159, 64, 1)'
+                ],
+                borderWidth: 1,
+                data: [{x:'2016-12-25', y:2},      
+                       {x:'2016-12-26', y:10},
+                       {x:'2017-12-25', y:20},
+                       {x:'2017-12-26', y:16},
+                       {x:'2018-12-25', y:40}, 
+                       {x:'2018-12-26', y:3}
+                ]
+            }, ]
+        };
+
+		window.onload = function() {
+			var ctx = document.getElementById('canvas').getContext('2d');
+			window.myBar = new Chart(ctx, {
+				type: 'bar',
+				data: barChartData,
+				options: {
+					responsive: true,
+					legend: {
+						position: 'top',
+					},
+					title: {
+						display: true,
+						text: 'Results'
+					}
+				}
+			});
+
+		};
+
+	</script>
+</body>
+
+</html>
