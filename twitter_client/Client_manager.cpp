@@ -59,8 +59,8 @@ int main( int argc, char* argv[] )
 
 //  /* OAuth flow begins */
 //  /* Step 0: Set OAuth related params. These are got by registering your app at twitter.com */
-    twitterObj.getOAuth().setConsumerKey( std::string( "RcS1lTPZjcVRXl2GSczfVReFS" ) );
-    twitterObj.getOAuth().setConsumerSecret( std::string( "q8R3eUipcREUw2sin2vbmVveiWjdPSxpDiwGE2fk7eWcXHx5Tf" ) );
+    twitterObj.getOAuth().setConsumerKey( std::string( "trgcvhjvhyhdcfvjkjb" ) );
+    twitterObj.getOAuth().setConsumerSecret( std::string( "yertxsdcfvugbiolohgvycyrtuy5dtfyugio678d65edcvghj" ) );
 
 //  /* Step 1: Check if we alredy have OAuth access token from a previous run */
     std::string myOAuthAccessTokenKey("");
