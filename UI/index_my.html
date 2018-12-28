@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<head>
+    <title>CSE 411 - Project 5 - Eashan Adhikarla</title>
+    <title>Horizontal Bar Chart</title>
+  <script src="file/Chart.bundle.js"></script>
+  <script src="file/utils.js"></script>
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+  <script src="file/Chart.min.js"></script>
+  <style>
+  canvas {
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+  }
+  </style>
+</head>
+
+<canvas id="myLineChart" width="740" height="200"></canvas>
+
+<body style="background-color: LightGray;">
+    <div align="center">
+    <h1><a href="https://twitter.com/eashan2212"><img class="bird" srcset='https://abs.twimg.com/errors/logo23x19.png 1x' src="https://abs.twimg.com/errors/logo23x19.png" alt="Twitter"></a> Twitter Trend Visualizer</h1>
+      <input style="padding: 15px; margin: 8px; width: 500px" type="text" id="query"/>
+      <button id="search">Search</button>
+      <!---<div id="chart" style="margin-top: 15px; width:20px; height:20px;">Chart Area</div> --->
+      <div id="container" style="width: 75%;">
+    <canvas id="canvas"></canvas>
+  </div>
+    </div>
+</body>
+
+<script>
+                
+           
+$(document).ready(function () {
+    // Note to students: you should make something much more beautiful and
+    // functional than this... it's just a starting point
+    let search = document.getElementById("search");
+    let query = document.getElementById("query");
+    let chart = document.getElementById("chart");
+    $("#search").click(function () {
+        window.alert(
+            "Searching \"" +
+            query.value + "\" in the mongo database. If exists the chart will be displayed below.");
+
+        var jsonData = $.ajax({
+        url: 'http://localhost:34568/data/' + query.value,
+        dataType: 'json',
+        }).done(function (results) {
+            console.log(results);
+    
+            chart.style.backgroundColor = "#808080";
+                        var MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+                        var color = Chart.helpers.color;
+                        var horizontalBarChartData = {
+                          labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July'],
+                          
+                          datasets: [{
+                            label: labels,
+                            backgroundColor: color(window.chartColors.red).alpha(0.5).rgbString(),
+                            borderColor: window.chartColors.red,
+                            borderWidth: 1,
+                            data: results[
+                              randomScalingFactor(),
+                              randomScalingFactor(),
+                              randomScalingFactor(),
+                              randomScalingFactor(),
+                              randomScalingFactor(),
+                              randomScalingFactor(),
+                              randomScalingFactor()
+                            ]
+                          }, {
+                            label: labels,
+                            backgroundColor: color(window.chartColors.blue).alpha(0.5).rgbString(),
+                            borderColor: window.chartColors.blue,
+                            data: results[
+                              randomScalingFactor(),
+                              randomScalingFactor(),
+                              randomScalingFactor(),
+                              randomScalingFactor(),
+                              randomScalingFactor(),
+                              randomScalingFactor(),
+                              randomScalingFactor()
+                            ]
+                          }]
+                        };
+                        window.onload = function() {
+                          var ctx = document.getElementById('canvas').getContext('2d');
+                          window.myHorizontalBar = new Chart(ctx, {
+                            type: 'horizontalBar',
+                            data: results,
+                            options: {
+                              // Elements options apply to all of the options unless overridden in a dataset
+                              // In this case, we are setting the border of each horizontal bar to be 2px wide
+                              elements: {
+                                rectangle: {
+                                  borderWidth: 2,
+                                }
+                              },
+                              responsive: true,
+                              legend: {
+                                position: 'right',
+                              },
+                              title: {
+                                display: true,
+                                text: 'Histogram showing the search tred.'
+                              }
+                            }
+                          });
+                        };
+                        
+                    });
+                }); 
+            });
+
+</script>
+            <div id="chartContainer" style="height: 300px; width: 100%;"></div>
+            <script src="https://canvasjs.com/assets/script/jquery-1.11.1.min.js"></script>
+            <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+</html>
+

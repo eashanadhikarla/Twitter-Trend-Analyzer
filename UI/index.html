@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<head>
+    <title>CSE 411 - Project 5 - Eashan Adhikarla</title>
+    <title>Horizontal Bar Chart</title>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/dygraph/2.1.0/dygraph.min.js"></script>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/dygraph/2.1.0/dygraph.min.css" />
+  <style>
+  canvas {
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+  }
+  </style>
+</head>
+
+<canvas id="myLineChart" width="740" height="200"></canvas>
+
+<body style="background-color: LightGray;">
+    <div align="center">
+    <h1><a href="https://twitter.com/eashan2212"><img class="bird" srcset='https://abs.twimg.com/errors/logo23x19.png 1x' src="https://abs.twimg.com/errors/logo23x19.png" alt="Twitter"></a> Twitter Trend Visualizer</h1>
+      <input style="padding: 15px; margin: 8px; width: 500px" type="text" id="query"/>
+      <button id="search">Search</button>
+      <!---<div id="chart" style="margin-top: 15px; width:20px; height:20px;">Chart Area</div> --->
+      <div id="container" style="width: 75%;">
+    <canvas id="canvas"></canvas>
+  </div>
+    </div>
+</body>
+
+<!-- library -->
+<script src = "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>  
+
+<!-- dygraphs -->
+
+<script type="text/javascript">
+    // Note to students: you should make something much more beautiful and
+    // functional than this... it's just a starting point
+    let search = document.getElementById("search");
+    let query = document.getElementById("query");
+    let chart = document.getElementById("chart");
+
+    $(document).ready(function() {
+        $("#search").click(function() {
+            $.ajax({
+                type: "GET",
+                url: "http://localhost:34568/data/" + $("#query").val(),
+                success: function(result) { 
+
+                    var json = eval(result); 
+                    if (json["num_date"] == 0) {window.alert("No data");} 
+                    else{
+                        /**********************************************************************/
+                        var tt = "";  
+                        tt+= "term: " + json["term"] + "<br>" + "num_date: " + json["num_date"] + "<br>"; 
+                        for (var i = 0; i < result["histogram"].length; i++) {
+                            var date = result["histogram"][i]["date"];  
+                            var num = result["histogram"][i]["num"];  
+                            tt += "&nbsp&nbsp" + date + ": " + num + "<br>"; 
+                        }
+                        $("#list").html('');  
+                        $("#list").html(tt);  
+
+                        /**********************************************************************/
+
+                        var jf = "";  
+                        for (var i = 0; i < result["json"].length; i++) {
+                            jf += result["json"][i] + "<br>"; 
+                        }
+                        $("#jsonfile").html('');  
+                        $("#jsonfile").html(jf);  
+
+                        /**********************************************************************/
+
+                        var graph = "Date,"+json["term"]+"\n";
+                        for (var i = 0; i < result["histogram"].length; i++) {
+                            graph += result["histogram"][i]["date"]+","+result["histogram"][i]["num"]+"\n"
+                        }
+
+                        g = new Dygraph(document.getElementById("chart"),graph,{
+                            title: 'Daily Twitter',
+                            plotter: barChartPlotter,
+                            includeZero: true,
+                            animatedZooms: true,
+                            axes: {
+                              x: {
+                                drawGrid: false
+                            }
+                        }
+
+                    });
+                    }   
+
+                },
+                error: function(error) {
+                    window.alert("Error");
+                }
+
+            });
+        });
+
+
+
+        $("#search_json").click(function() {
+            window.location.href="http://localhost:34568/files/"+$("#json").val();
+        });
+
+
+    });
+
+    // search.addEventListener("click", function () {
+        // window.alert(
+        //     "This component is not implemented yet, but if it was, it would send a query to Twitter, using the search string \"" +
+        //     query.value + "\", and then it would update the chart area (which will now turn red).");
+    //     chart.style.backgroundColor = "#ff0000";
+    // }, false);
+    function barChartPlotter(e) {
+        var ctx = e.drawingContext;
+        var points = e.points;
+        var y_bottom = e.dygraph.toDomYCoord(0);
+
+        ctx.fillStyle = darkenColor(e.color);
+        var min_sep = Infinity;
+        for (var i = 1; i < points.length; i++) {
+          var sep = points[i].canvasx - points[i - 1].canvasx;
+          if (sep < min_sep) min_sep = sep;
+      }
+      var bar_width = Math.floor(2.0 / 3 * min_sep);
+
+      for (var i = 0; i < points.length; i++) {
+          var p = points[i];
+          var center_x = p.canvasx;
+
+          ctx.fillRect(center_x - bar_width / 2, p.canvasy,
+              bar_width, y_bottom - p.canvasy);
+
+          ctx.strokeRect(center_x - bar_width / 2, p.canvasy,
+              bar_width, y_bottom - p.canvasy);
+      }
+  }
+
+  function darkenColor(colorStr) {
+        // Defined in dygraph-utils.js
+        var color = Dygraph.toRGB_(colorStr);
+        color.r = Math.floor((255 + color.r) / 2);
+        color.g = Math.floor((255 + color.g) / 2);
+        color.b = Math.floor((255 + color.b) / 2);
+        return 'rgb(' + color.r + ',' + color.g + ',' + color.b + ')';
+    }
+
+</script>
+          
+</html>
+
